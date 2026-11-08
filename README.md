@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1903 TILs and counting..._
+_1904 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -930,6 +930,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Checking The Type Of A Value](postgres/checking-the-type-of-a-value.md)
 - [Clear The Screen In psql](postgres/clear-the-screen-in-psql.md)
 - [Clear The Screen In psql (2)](postgres/clear-the-screen-in-psql-2.md)
+- [Compute Cosine Similarity Of Vector Embeddings](postgres/compute-cosine-similarity-of-vector-embeddings.md)
 - [Compute Hashes With pgcrypto](postgres/compute-hashes-with-pgcrypto.md)
 - [Compute Median Instead Of Average](postgres/compute-median-instead-of-average.md)
 - [Compute The Levenshtein Distance Of Two Strings](postgres/compute-the-levenshtein-distance-of-two-strings.md)
