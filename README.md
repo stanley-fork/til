@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1904 TILs and counting..._
+_1905 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1214,6 +1214,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Columns With Default Values Are Nil On Create](rails/columns-with-default-values-are-nil-on-create.md)
 - [Comparing DateTimes Down To Second Precision](rails/comparing-datetimes-down-to-second-precision.md)
 - [Conditional Class Selectors in Haml](rails/conditional-class-selectors-in-haml.md)
+- [Connect To App Database With `dbconsole`](rails/connect-to-app-database-with-dbconsole.md)
 - [Convert A Symbol To A Constant](rails/convert-a-symbol-to-a-constant.md)
 - [Convert JSON Field To Hash With Indifferent Access](rails/convert-json-field-to-hash-with-indifferent-access.md)
 - [Count The Number Of Records By Attribute](rails/count-the-number-of-records-by-attribute.md)
