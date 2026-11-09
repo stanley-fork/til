@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1905 TILs and counting..._
+_1906 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -1607,6 +1607,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Refer To Implicit Block Argument With It](ruby/refer-to-implicit-block-argument-with-it.md)
 - [Reference Hash Key With Safe Navigation](ruby/reference-hash-key-with-safe-navigation.md)
 - [Regenerate Lock File With Newer Bundler](ruby/regenerate-lock-file-with-newer-bundler.md)
+- [Reheat A Chilled String](ruby/reheat-a-chilled-string.md)
 - [Rendering ERB](ruby/rendering-erb.md)
 - [Replace The Current Process With An External Command](ruby/replace-the-current-process-with-an-external-command.md)
 - [Require Entire Gemfile In Pry Session](ruby/require-entire-gemfile-in-pry-session.md)
