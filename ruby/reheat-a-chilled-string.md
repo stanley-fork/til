@@ -1,15 +1,14 @@
 # Reheat A Chilled String
 
-In Ruby 3.4 and later, we no longer have to use the `# frozen_string_literal:
-true` magic comment at the beginning of all our files. That's because when that
+In Ruby 3.4 and later, we no longer have to use the `# frozen_string_literal: true` magic comment at the beginning of all our files. That's because when that
 comment is missing, all string literals are treated as _chilled_. They aren't
 quite frozen, but now we will see warnings when code tries to mutate those
 chilled strings. This is an intermediate step towards strings being frozen by
 default.
 
 Occasionally we want a string to be mutable so that the logic of our program can
-make changes to it. To avoid a warning or outright error, we need _reheat_ the
-string.
+make changes to it. To avoid a warning or outright error, we need to _reheat_
+the string.
 
 This can be done with [the `+` unary operator on the `String`
 class](https://docs.ruby-lang.org/en/master/String.html#method-i-2B-40).
