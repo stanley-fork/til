@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1907 TILs and counting..._
+_1908 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -27,6 +27,7 @@ If you've learned something here, support my efforts writing daily TILs by
 ### Categories
 
 * [Ack](#ack)
+* [AI-Assisted Coding](#ai-assisted-coding)
 * [Ansible](#ansible)
 * [Astro](#astro)
 * [AWS](#aws)
@@ -110,6 +111,10 @@ If you've learned something here, support my efforts writing daily TILs by
 - [ack --bar](ack/ack-bar.md)
 - [Case-Insensitive Search](ack/case-insensitive-search.md)
 - [List Available File Types](ack/list-available-file-types.md)
+
+### AI-Assisted Coding
+
+- [Ask For An Adversarial Review](ai-assisted-coding/ask-for-an-adversarial-review.md)
 
 ### Ansible
 
