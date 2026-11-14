@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1908 TILs and counting..._
+_1909 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -42,6 +42,7 @@ If you've learned something here, support my efforts writing daily TILs by
 * [Docker](#docker)
 * [Drizzle](#drizzle)
 * [Elixir](#elixir)
+* [Factorio](#factorio)
 * [Gatsby](#gatsby)
 * [Git](#git)
 * [GitHub](#github)
@@ -341,6 +342,10 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Virtual Fields With Ecto Schemas](elixir/virtual-fields-with-ecto-schemas.md)
 - [When Things Don't Match The With Statements](elixir/when-things-dont-match-the-with-statements.md)
 - [Word Lists For Atoms](elixir/word-lists-for-atoms.md)
+
+### Factorio
+
+- [Research All Technologies In Sandbox World](factorio/research-all-technologies-in-sandbox-world.md)
 
 ### Gatsby
 
