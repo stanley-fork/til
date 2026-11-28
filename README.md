@@ -10,7 +10,7 @@ working across different projects via [VisualMode](https://www.visualmode.dev/).
 
 For a steady stream of TILs, [sign up for my newsletter](https://visualmode.kit.com/newsletter).
 
-_1919 TILs and counting..._
+_1920 TILs and counting..._
 
 See some of the other learning resources I work on:
 
@@ -438,6 +438,7 @@ If you've learned something here, support my efforts writing daily TILs by
 - [Pick Specific Changes To Stash](git/pick-specific-changes-to-stash.md)
 - [Programmatically Grab SHA For Head Commit](git/programmatically-grab-sha-for-head-commit.md)
 - [Pulling In Changes During An Interactive Rebase](git/pulling-in-changes-during-an-interactive-rebase.md)
+- [Push A Set Of Refs Atomically](git/push-a-set-of-refs-atomically.md)
 - [Push To A Branch On Another Remote](git/push-to-a-branch-on-another-remote.md)
 - [Quicker Commit Fixes With The Fixup Flag](git/quicker-commit-fixes-with-the-fixup-flag.md)
 - [Rebase Commits With An Arbitrary Command](git/rebase-commits-with-an-arbitrary-command.md)
